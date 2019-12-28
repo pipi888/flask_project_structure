@@ -21,6 +21,7 @@ python manager.py db migrate
 python manager.py db upgrade
 
 # 如果更新了model.py模型里面的字段或其他地方，只需执行18和21行的命令即可
+
 """
 
 if __name__ == '__main__':
